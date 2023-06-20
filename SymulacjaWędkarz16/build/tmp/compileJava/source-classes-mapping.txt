@@ -1,0 +1,28 @@
+plansza/Plansza.java
+ plansza.Plansza
+ryby/Drapiezniki.java
+ ryby.Drapiezniki
+plansza/Losowanie.java
+ plansza.Losowanie
+ryby/SrednieRyby.java
+ ryby.SrednieRyby
+obiektyNaturalne/Zerowiska.java
+ obiektyNaturalne.Zerowiska
+obiektyNaturalne/ObiektyNaturalne.java
+ obiektyNaturalne.ObiektyNaturalne
+obiektyNaturalne/PodwodneLaki.java
+ obiektyNaturalne.PodwodneLaki
+main/Main.java
+ main.Main
+wedkarz/Licznik.java
+ wedkarz.Licznik
+obiektyNaturalne/ZatopioneKonary.java
+ obiektyNaturalne.ZatopioneKonary
+ryby/MaleRyby.java
+ ryby.MaleRyby
+wedkarz/Wedkarz.java
+ wedkarz.Wedkarz
+ryby/Ryby.java
+ ryby.Ryby
+ryby/MaleRybki.java
+ ryby.MaleRybki
